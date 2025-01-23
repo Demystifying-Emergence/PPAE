@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Principled and Practical Approaches to Emergence
 ---
 
